@@ -13,7 +13,7 @@ WhatsApp: <a target='_blank' href='https://wa.me/+255654212554'>
 <br>
 <br>
 Portfolio: <a target='_blank' href='http://dephel.netlify.app/'>
- +255654212554
+ My Portfolio
 </a>
 <br>
 
