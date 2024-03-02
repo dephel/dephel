@@ -10,6 +10,12 @@ Email: daviddephel9@gmail.com
 WhatsApp: <a target='_blank' href='https://wa.me/+255654212554'>
  +255654212554
 </a>
+<br>
+<br>
+Portfolio: <a target='_blank' href='http://dephel.netlify.app/'>
+ +255654212554
+</a>
+<br>
 
 
 ### currently working 
@@ -47,9 +53,11 @@ Here are some ideas to get you started:
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<!--
 
 ### 🔝 Public Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dephel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+-->
 
 ### 😂 Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
