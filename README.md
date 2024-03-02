@@ -1,14 +1,14 @@
-### Hi there 👋, I'm David Dephel,
+## Hi there 👋, I'm David Dephel,
 
-# 💫 About Me:
+### 💫 About Me:
 Full-stack developer building applications and websites. Skilled in MERN Stack, Laravel and Flutter.
 
-# How to reach me:
+### How to reach me:
 Email daviddephel9@gmail.com
 WhatsApp +255654212554
 
 
-# currently working 
+### currently working 
  🔭 I’m currently working on a Web3-based DeFi Application
 
 
