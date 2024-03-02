@@ -1,4 +1,4 @@
-  ##Hi there 👋, I'm David Dephel,
+  ## Hi there 👋, I'm David Dephel,
 
 ### 💫 About Me:
 Full-stack developer building applications and websites. Skilled in MERN Stack, Laravel and Flutter.
