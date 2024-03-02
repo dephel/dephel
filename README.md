@@ -1,10 +1,12 @@
-                                                                 # Hi there 👋, I'm David Dephel,
+  ##Hi there 👋, I'm David Dephel,
 
 ### 💫 About Me:
 Full-stack developer building applications and websites. Skilled in MERN Stack, Laravel and Flutter.
 
 ### How to reach me:
-Email: daviddephel9@gmail.com<br>
+Email: daviddephel9@gmail.com
+<br>
+<br>
 WhatsApp: <a target='_blank' href='https://wa.me/+255654212554'>
  +255654212554
 </a>
