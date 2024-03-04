@@ -18,11 +18,11 @@ Portfolio: <a target='_blank' href='http://dephel.netlify.app/'>
 <br>
 
 
+<!--
 ### currently working 
  🔭 I’m currently working on a Web3-based DeFi Application
 
 
-<!--
 **dephel/dephel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
