@@ -1,4 +1,3 @@
-```markdown
 # Hi there 👋, I'm David Dephel
 
 ### 💫 Professional Summary:
@@ -19,6 +18,7 @@
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
@@ -31,41 +31,13 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-  <!-- Custom Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dephel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues&line_height=24&custom_title=My%20GitHub%20Stats&card_width=400"/>
-  
-  <!-- Language Distribution (customized appearance) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dephel&layout=compact&theme=radical&hide=html,css,scss&langs_count=6&card_width=400&size_weight=0.5&count_weight=0.5&exclude_repo=dephel.github.io"/>
-  
-  <!-- Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dephel&theme=radical&hide_border=true"/>
-  
-  <!-- Metrics Display -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dephel&theme=radical" height="180em"/>
-  
-  <!-- Achievement Badges -->
-  <img src="https://github-profile-trophy.vercel.app/?username=dephel&theme=radical&no-frame=true&margin-w=15&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" height="180em"/>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dephel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dephel&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dephel&theme=radical"/>
 </div>
 
-## 📊 Activity Metrics
-```text
-📅 Monthly Activity:
-JavaScript      ████████████████████░░░░   80.5%
-Python          █████████████░░░░░░░░░░░   55.2%
-PHP             ████████████░░░░░░░░░░░░   50.8%
-TypeScript      ████████░░░░░░░░░░░░░░░░   35.1%
-Dart            ██████░░░░░░░░░░░░░░░░░░   25.3%
-
-🏆 GitHub Profile Rating: B+
-⭐ Total Stars Earned: 128
-📌 Total PRs: 42
-📝 Total Commits: 876
-🔀 Total Forks: 37
-
 ## 🏆 GitHub Achievements
-![](https://github-profile-trophy.vercel.app/?username=dephel&theme=radical&no-frame=true&margin-w=30&column=7&rank=SSS,SS,S,AAA,AA,A,B,C)
+![](https://github-profile-trophy.vercel.app/?username=dephel&theme=radical&no-frame=true&margin-w=30&column=7)
 
 ## 🌐 Connect With Me
 
@@ -79,19 +51,20 @@ Dart            ██████░░░░░░░░░░░░░░░�
 - **WhatsApp:** [+255654212554](https://wa.me/+255654212554)
 - **Freelance:** Available for projects
 
-## 🔭 Current Projects
-- Building a Web3-based DeFi Application with Supabase backend
-- Developing an AI-powered SaaS platform using PostgreSQL
-- Contributing to open-source Flutter packages
+
+### 2. Swahili NLP for East African Businesses
+- Developing Swahili language models for business automation
+- Training custom BERT models on Swahili corpora (65% accuracy) still going on though
+- Applications: Customer service bots, Swahili document processing
+- Tech: Python, TensorFlow, HuggingFace Transformers
 
 ## ✍️ Developer Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 😄 Fun Fact
-I once fixed a production bug while on a safari - true "wild" coding experience!
+When I'm not coding, you'll find me exploring new technologies or contributing to open source!
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=dephel&label=Profile%20Views&color=0e75b6&style=flat" alt="dephel" /> 
-  <img src="https://img.shields.io/github/followers/dephel?label=Followers&style=social" alt="GitHub Followers"/>
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/dephel/count.svg" />
 </p>
-```
