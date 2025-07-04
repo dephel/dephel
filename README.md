@@ -37,7 +37,7 @@
 </div>
 
 ## 🏆 GitHub Achievements
-![](https://github-profile-trophy.vercel.app/?username=dephel&theme=radical&no-frame=true&margin-w=30&column=7)
+![](https://github-profile-trophy.vercel.app/?username=dmachibya&theme=radical&no-frame=true&margin-w=30&column=7)
 
 ## 🌐 Connect With Me
 
@@ -51,8 +51,9 @@
 - **WhatsApp:** [+255654212554](https://wa.me/+255654212554)
 - **Freelance:** Available for projects
 
+## 🔭 Current Projects
 
-### 2. Swahili NLP for East African Businesses
+### 1. Swahili NLP for East African Businesses
 - Developing Swahili language models for business automation
 - Training custom BERT models on Swahili corpora (65% accuracy) still going on though
 - Applications: Customer service bots, Swahili document processing
