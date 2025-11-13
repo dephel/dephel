@@ -43,22 +43,8 @@ I specialize in **AI-powered systems**, **mobile apps**, and **modern full-stack
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
----
 
-## 🤖 AI & Mobile Projects
 
-### 🧩 Language Intelligence Systems
-- Building Swahili NLP models for speech and text understanding  
-- Training local-language datasets using **Wav2Vec2** and **Whisper**  
-- Applications: Chatbots, Voice Assistants, Translation Systems  
-
-### 📱 Mobile Applications
-- Cross-platform mobile apps using **Flutter**  
-- Real-time databases (Firebase / Supabase)  
-- Secure authentication and push notifications  
-- Clean architecture (MVVM) for maintainability  
-
----
 
 ## 📊 GitHub Stats
 
