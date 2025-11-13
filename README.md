@@ -1,69 +1,102 @@
-# Hi there 👋, I'm David Dephel
+# 👋 Hi, I'm David Dephel
 
-### 💫 Professional Summary:
-**Full-stack Developer** specializing in building scalable web applications, mobile apps, and responsive websites. Expert in MERN Stack, Laravel, and Flutter with a focus on clean code architecture and optimal user experiences.
+### 💡 AI, Mobile & Full-Stack Developer  
+I’m a **software engineer** passionate about creating intelligent, scalable, and user-centered digital solutions.  
+I specialize in **AI-powered systems**, **mobile apps**, and **modern full-stack web development**.
 
-## 🛠️ Tech Stack
+---
 
-### Frontend
+## ⚙️ Tech Stack
+
+### 🖥️ Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Databases
+### 🧠 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FEDC58?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Wav2Vec2](https://img.shields.io/badge/Wav2Vec2-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-0A0A0A?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### DevOps & Tools
+### 🧰 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 📈 GitHub Stats
+---
+
+## 🤖 AI & Mobile Projects
+
+### 🧩 Language Intelligence Systems
+- Building Swahili NLP models for speech and text understanding  
+- Training local-language datasets using **Wav2Vec2** and **Whisper**  
+- Applications: Chatbots, Voice Assistants, Translation Systems  
+
+### 📱 Mobile Applications
+- Cross-platform mobile apps using **Flutter**  
+- Real-time databases (Firebase / Supabase)  
+- Secure authentication and push notifications  
+- Clean architecture (MVVM) for maintainability  
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dephel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dephel&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmachibya&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dephel&layout=compact&langs_count=8&theme=radical"/>
 </div>
+
+---
 
 ## 🏆 GitHub Achievements
 ![](https://github-profile-trophy.vercel.app/?username=dephel&theme=radical&no-frame=true&margin-w=30&column=7)
+
+---
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-dephel-a945421b3)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dephel9)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dephel9)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](http://dephel.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dephel.netlify.app)
+
+---
 
 ## 📫 How To Reach Me
-- **Email:** [daviddephel9@gmail.com](mailto:daviddephel9@gmail.com)
-- **WhatsApp:** [+255654212554](https://wa.me/+255654212554)
-- **Freelance:** Available for projects
+- **Email:** [daviddephel9@gmail.com](mailto:daviddephel9@gmail.com)  
+- **WhatsApp:** [+255 744 044 245](https://wa.me/255744044245)  
+- **Freelance:** Open to collaboration and contract projects
 
-## 🔭 Current Projects
-
-### 1. Swahili NLP for East African Businesses
-- Developing Swahili language models for business automation
-- Training custom BERT models on Swahili corpora (65% accuracy) still going on though
-- Applications: Customer service bots, Swahili document processing
-- Tech: Python, TensorFlow, HuggingFace Transformers
+---
 
 ## ✍️ Developer Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+
 ## 😄 Fun Fact
-When I'm not coding, you'll find me exploring new technologies or contributing to open source!
+When I'm not coding, you'll find me exploring new AI trends or contributing to open source!
 
 <p align="center"> 
   Visitor count<br>
