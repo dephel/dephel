@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Dephel
+# 👋 Hi,  I'm Dephel
 
-💡 Full-Stack & AI Developer
+### 💡 Full-Stack & AI Developer
 I’m a software engineer focused on building smart, scalable, and user-friendly digital solutions.
 Skilled in AI systems, mobile app development, and full-stack web technologies.
 ---
@@ -61,10 +61,13 @@ Skilled in AI systems, mobile app development, and full-stack web technologies.
 
 ## 🌐 Connect With Me
 
+## 🌐 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-dephel-a945421b3)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dephel9)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dephel9)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dephel.netlify.app)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FEDC58?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/dephel)
 
 ---
 
