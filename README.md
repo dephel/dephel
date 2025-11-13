@@ -1,8 +1,8 @@
 # 👋 Hi,  I'm Dephel
 
 ### 💡 Full-Stack & AI Developer
-I’m a software engineer focused on building smart, scalable, and user-friendly digital solutions.
-Skilled in AI systems, mobile app development, and full-stack web technologies.
+### I’m a software engineer focused on building smart, scalable, and user-friendly digital solutions.
+Developing AI systems, mobile app development, and full-stack web technologies.
 ---
 
 ## ⚙️ Tech Stack
