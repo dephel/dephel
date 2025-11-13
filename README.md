@@ -1,9 +1,8 @@
-# 👋 Hi, I'm David Dephel
+# 👋 Hi, I'm Dephel
 
-### 💡 AI, Mobile & Full-Stack Developer  
-I’m a **software engineer** passionate about creating intelligent, scalable, and user-centered digital solutions.  
-I specialize in **AI-powered systems**, **mobile apps**, and **modern full-stack web development**.
-
+💡 Full-Stack & AI Developer
+I’m a software engineer focused on building smart, scalable, and user-friendly digital solutions.
+Skilled in AI systems, mobile app development, and full-stack web technologies.
 ---
 
 ## ⚙️ Tech Stack
@@ -71,7 +70,7 @@ I specialize in **AI-powered systems**, **mobile apps**, and **modern full-stack
 
 ## 📫 How To Reach Me
 - **Email:** [daviddephel9@gmail.com](mailto:daviddephel9@gmail.com)  
-- **WhatsApp:** [+255 744 044 245](https://wa.me/255744044245)  
+- **WhatsApp:** [+255 654 212 554](https://wa.me/255654212554)  
 - **Freelance:** Open to collaboration and contract projects
 
 ---
