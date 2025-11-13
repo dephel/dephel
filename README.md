@@ -81,9 +81,6 @@ I specialize in **AI-powered systems**, **mobile apps**, and **modern full-stack
 
 ---
 
-## 😄 Fun Fact
-When I'm not coding, you'll find me exploring new AI trends or contributing to open source!
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/dephel/count.svg" />
