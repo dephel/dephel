@@ -50,7 +50,7 @@ I specialize in **AI-powered systems**, **mobile apps**, and **modern full-stack
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dephel&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dephel&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=squidfunk&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 ---
